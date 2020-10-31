@@ -1,0 +1,15 @@
+C:\Users\fernanda\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesvirtualesProgramacion\bin\Debug\ClasesvirtualesProgramacion.exe.config
+C:\Users\fernanda\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesvirtualesProgramacion\bin\Debug\ClasesvirtualesProgramacion.exe
+C:\Users\fernanda\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesvirtualesProgramacion\bin\Debug\ClasesvirtualesProgramacion.pdb
+C:\Users\fernanda\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesvirtualesProgramacion\bin\Debug\MySql.Data.dll
+C:\Users\fernanda\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesvirtualesProgramacion\bin\Debug\MySql.Data.xml
+C:\Users\fernanda\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesvirtualesProgramacion\obj\Debug\ClasesvirtualesProgramacion.Dialogs.baseDialog.resources
+C:\Users\fernanda\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesvirtualesProgramacion\obj\Debug\ClasesvirtualesProgramacion.Forms.frmEstudiantesList.resources
+C:\Users\fernanda\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesvirtualesProgramacion\obj\Debug\ClasesvirtualesProgramacion.Properties.Resources.resources
+C:\Users\fernanda\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesvirtualesProgramacion\obj\Debug\ClasesvirtualesProgramacion.csproj.GenerateResource.Cache
+C:\Users\fernanda\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesvirtualesProgramacion\obj\Debug\ClasesvirtualesProgramacion.exe
+C:\Users\fernanda\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesvirtualesProgramacion\obj\Debug\ClasesvirtualesProgramacion.pdb
+C:\Users\fernanda\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesvirtualesProgramacion\obj\Debug\ClasesvirtualesProgramacion.csprojResolveAssemblyReference.cache
+C:\Users\fernanda\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesvirtualesProgramacion\obj\Debug\ClasesvirtualesProgramacion.Dialogs.EstudianteDialog.resources
+C:\Users\fernanda\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesvirtualesProgramacion\obj\Debug\ClasesvirtualesProgramacion.Dialogs.GastosDialogs.resources
+C:\Users\fernanda\documents\visual studio 2015\Projects\ClasesVirtualesProgramacion\ClasesvirtualesProgramacion\obj\Debug\ClasesvirtualesProgramacion.Forms.frmGastosList.resources
